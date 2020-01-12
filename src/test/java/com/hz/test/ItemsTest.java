@@ -5,6 +5,7 @@ import com.hz.domain.Items;
 import com.hz.impl.ItemsDaoImpl;
 import org.junit.Test;
 // i have changed it
+//项目经理
 import java.util.List;
 
 public class ItemsTest {
